@@ -1,4 +1,6 @@
 # selenium-starter
+This is a quick start for starting with Web UI automation using WebDriver/Selenium with Java language.
+Mac is the main platform used for this instruction. (However, you can easily find Windows equivalents via Google)
 
 # prerequisites
 
