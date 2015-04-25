@@ -25,16 +25,13 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 * 
 
 ## Firefox
-* download
-* install
-* 
+* download and install: https://www.mozilla.org/en-US/firefox/new/
 
 ## Firefox extensions
-* Firebug
-* Firepath
-* Selenium-IDE
-* SE-Builder
-* 
+* Firebug: https://addons.mozilla.org/en-US/firefox/addon/firebug/
+* Firepath: https://addons.mozilla.org/en-US/firefox/addon/firepath/
+* Selenium-IDE: http://www.seleniumhq.org/download/
+* SE-Builder: http://www.saucelabs.com/addons/selenium-builder-latest.xpi (from Firefox)
 
 # Projects
 
