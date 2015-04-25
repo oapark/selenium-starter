@@ -13,17 +13,15 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 * download & install by consulting an excellent advice: http://www.mkyong.com/maven/install-maven-on-mac-osx/
 
 ## Eclipse
-* download
+* download http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr2
 * install
 
 ## maven plugin for Eclipse
-* download
-* install
-* 
+* maven plugin for Eclipse: http://eclipse.org/m2e/
 
 ## TestNG plugin for Ecipse
-* download
-* install
+* download: http://testng.org/doc/download.html
+* documentation: http://testng.org/doc/eclipse.html
 * 
 
 ## Firefox
