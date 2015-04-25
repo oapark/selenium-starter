@@ -6,13 +6,11 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 
 ## JDK 8
 
-* download & install 
-** download JDK 8 from http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-** follow instruction and install JDK
+* download JDK 8 from http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* follow instruction and install JDK
 
 ## maven
-* download & install
-** consult an excellent advice: http://www.mkyong.com/maven/install-maven-on-mac-osx/
+* download & install by consulting an excellent advice: http://www.mkyong.com/maven/install-maven-on-mac-osx/
 
 ## Eclipse
 * download
