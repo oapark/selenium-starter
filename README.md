@@ -36,6 +36,10 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 # Projects Part 1 (Selenium-IDE)
 
 ## First Project: Google Search 
+We will use Selenium-IDE to simulate a user searching for some text with Google.com, and validate that the text is found.
+1. kk
+2. lld
+3. dd
 
 ## Second Project: github access
 
