@@ -37,6 +37,19 @@
 * Firepath
 * Selenium-IDE
 * SE-Builder
-# First Project: Google Search 
-# Second Project: github access
-# Third Project: github access
+* 
+
+# Projects
+
+## First Project: Google Search 
+
+## Second Project: github access
+
+## Third Project: github access
+
+# Resources
+* http://www.seleniumhq.org
+* https://github.com/SeleniumBuilder/se-builder
+* 
+
+
