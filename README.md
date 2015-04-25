@@ -33,7 +33,15 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 * Selenium-IDE: http://www.seleniumhq.org/download/
 * SE-Builder: http://www.saucelabs.com/addons/selenium-builder-latest.xpi (from Firefox)
 
-# Projects
+# Projects Part 1 (Selenium-IDE)
+
+## First Project: Google Search 
+
+## Second Project: github access
+
+## Third Project: github access
+
+# Projects Part 2 (Java/TestNG/WebDriver)
 
 ## First Project: Google Search 
 
