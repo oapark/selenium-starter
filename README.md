@@ -38,8 +38,8 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 ## First Project: Google Search 
 We will use Selenium-IDE to simulate a user searching for some text with Google.com, and validate that the text is found.
 
-1. kk
-2. lld
+1. Start Firefox
+2. Tools>Selenium IDE
 3. dd
 
 ## Second Project: github access
