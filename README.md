@@ -48,11 +48,12 @@ We will use Selenium-IDE to simulate a user searching for some text with Google.
 
 # Projects Part 2 (Java/TestNG/WebDriver)
 
-## First Project: Google Search 
+## Project #1: Quick Start
+> https://github.com/redjpark/selenium-starter/wiki
 
-## Second Project: github access
+## Project #2: Google Search
 
-## Third Project: github access
+## Project #3: github access
 
 # Resources
 * http://www.seleniumhq.org
