@@ -33,20 +33,8 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 * Selenium-IDE: http://www.seleniumhq.org/download/
 * SE-Builder: http://www.saucelabs.com/addons/selenium-builder-latest.xpi (from Firefox)
 
-# Projects Part 1 (Selenium-IDE)
 
-## First Project: Google Search 
-We will use Selenium-IDE to simulate a user searching for some text with Google.com, and validate that the text is found.
-
-1. Start Firefox
-2. Tools>Selenium IDE
-3. dd
-
-## Second Project: github access
-
-## Third Project: github access
-
-# Projects Part 2 (Java/TestNG/WebDriver)
+# Projects with Java/TestNG/WebDriver
 
 ## Project #1: Quick Start
 > https://github.com/oapark/selenium-starter/wiki
