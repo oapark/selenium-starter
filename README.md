@@ -49,7 +49,7 @@ We will use Selenium-IDE to simulate a user searching for some text with Google.
 # Projects Part 2 (Java/TestNG/WebDriver)
 
 ## Project #1: Quick Start
-> https://github.com/redjpark/selenium-starter/wiki
+> https://github.com/oapark/selenium-starter/wiki
 
 ## Project #2: Google Search
 
