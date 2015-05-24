@@ -20,13 +20,13 @@ public class RequestInfoPage extends LoadableComponent<RequestInfoPage> {
         PageFactory.initElements(driver, this);
     }
     
-    //@Override
+    @Override
     protected void isLoaded() throws Error {
     	System.out.println("done loading: " + this.getClass().getName());
     	assertThat(driver.getTitle(), containsString("Request Info Today"));
     }
     
-    //@Override
+    @Override
     protected void load() {
     	System.out.println("loading " + this.getClass().getName() + "...");
     	driver.get("http://www.mills.edu/admission/graduate/request_info.php");
