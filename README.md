@@ -19,22 +19,10 @@ Mac is the main platform used for this instruction. (However, you can easily fin
 ## maven plugin for Eclipse
 * maven plugin for Eclipse: http://eclipse.org/m2e/
 
-## TestNG plugin for Ecipse
-* download: http://testng.org/doc/download.html
-* documentation: http://testng.org/doc/eclipse.html
-* 
-
 ## Firefox
 * download and install: https://www.mozilla.org/en-US/firefox/new/
 
-## Firefox extensions
-* Firebug: https://addons.mozilla.org/en-US/firefox/addon/firebug/
-* Firepath: https://addons.mozilla.org/en-US/firefox/addon/firepath/
-* Selenium-IDE: http://www.seleniumhq.org/download/
-* SE-Builder: http://www.saucelabs.com/addons/selenium-builder-latest.xpi (from Firefox)
-
-
-# Projects with Java/TestNG/WebDriver
+# Projects with Java/WebDriver
 
 ## Project #1: Quick Start
 > https://github.com/oapark/selenium-starter/wiki
